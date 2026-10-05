@@ -1,9 +1,5 @@
 # Gemini 4 Argon 来了：谷歌最强模型，为什么先交给"网络安全守门人"？
 
-> 备选标题：
-> 1. 一次能输出 100 万 token：读懂谷歌 Gemini 4 Argon 的野心与克制
-> 2. 有价格、没开放日期：Gemini 4 Argon 到底是个什么模型？
-
 ## 一句话看懂
 
 Gemini 4 Argon 是谷歌在 2026 年 9 月 30 日（美国时间）发布的新一代旗舰"前沿模型"，主打长时间、多步骤的复杂任务（写代码、法律金融类知识工作、网络安全防御），但目前**只开放给谷歌 Fairwind 计划里经过审核的网络安全防御方**，普通开发者和用户还得等。
@@ -117,3 +113,8 @@ Gemini 4 Argon 展示了谷歌在长任务推理、代码工程和网络安全�
 - WorkOS：Fairwind 访问规则解读 — https://workos.com/blog/gemini-4-argon-fairwind-access-control
 - Handy AI：Model Drop: Gemini 4 Argon（第三方评论）— https://handyai.substack.com/p/model-drop-gemini-4-argon
 - Hacker News 讨论 — https://news.ycombinator.com/item?id=49914236
+
+
+---
+
+© 2026 Maynor（xianyu110）。本文文字采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可协议，转载请注明出处。文中第三方网页截图、商标归各自权利人所有，仅用于介绍与评论。

@@ -1,0 +1,21 @@
+title: "Gemini 4 Argon 来了：谷歌最强模型，为什么先交给\"网络安全守门人\"？"
+description: "谷歌 Gemini 4 Argon 一文读懂：1M token 输出上限、官方跑分、2/10 美元推广价，以及为何先通过 Fairwind 计划只开放给网络安全防御方。"
+url: "https://xianyu110.github.io"
+baseurl: "/gemini-4-argon-guide"
+lang: zh-CN
+locale: zh_CN
+theme: jekyll-theme-cayman
+show_downloads: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+author:
+  name: Maynor
+  url: https://github.com/xianyu110
+twitter:
+  card: summary_large_image
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://upload.maynor1024.live/file/1791092112234_gemini-argon-blog-hero.jpg
